@@ -66,8 +66,4 @@ An intelligent and scalable blog platform built using the **MERN Stack**, integr
 
 ---
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/your-username/ai-blog-app.git
-cd ai-blog-app
