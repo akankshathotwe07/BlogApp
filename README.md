@@ -1,51 +1,73 @@
-🚀 AI-Powered Blog Platform
+<div align="center">
 
-✨ A Modern Full-Stack Blog Application powered by AI
+# 🚀 AI-Powered Blog Platform  
 
-An intelligent and scalable blog platform built using the MERN Stack, integrated with Google Gemini AI for smart content generation and ImageKit API for optimized media delivery.
+### ✨ A Modern Full-Stack Blog Application Powered by AI  
 
-🧠 Key Highlights
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F3FBF&center=true&vCenter=true&width=500&lines=MERN+Stack+Project;Google+Gemini+Integration;JWT+Authentication;Admin+Dashboard+System" />
 
-✨ AI-generated blog content using Google Gemini
-✨ Secure JWT-based Authentication
-✨ Role-based Admin Access
-✨ Comment Moderation System
-✨ Beautiful & Responsive UI
-✨ Optimized Image Handling via ImageKit CDN
-✨ RESTful API Architecture
+---
 
-📌 Features
-👤 User Side
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![Express](https://img.shields.io/badge/Express.js-Backend-black)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node](https://img.shields.io/badge/Node.js-Server-green)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-purple)
+![ImageKit](https://img.shields.io/badge/CDN-ImageKit-blueviolet)
 
-Read blogs seamlessly
+</div>
 
-Post comments on blogs
+---
 
-Responsive and modern UI
+## 🧠 About The Project
 
-Fast image loading with CDN
+An intelligent and scalable blog platform built using the **MERN Stack**, integrated with **Google Gemini AI** for smart content generation and **ImageKit API** for optimized media delivery.
 
-🛠️ Admin Side
+---
 
-Add, edit, delete blogs
+## 🌟 Key Highlights
 
-Approve or reject user comments
+- 🤖 AI-generated blog content using Google Gemini  
+- 🔐 Secure JWT-based Authentication  
+- 🛡️ Role-based Admin Access  
+- ✅ Comment Moderation System  
+- 🎨 Beautiful & Responsive UI  
+- ⚡ Optimized Image Handling via ImageKit CDN  
+- 🌐 RESTful API Architecture  
 
-Manage content via a clean dashboard
+---
 
-Secure protected routes
+## 👤 User Features
 
-🏗️ Tech Stack
-Frontend	Backend	Database	APIs
-React.js	Node.js	MongoDB	Google Gemini
-Context API	Express.js	Mongoose	ImageKit API
-Axios	JWT Auth		
-🔐 Authentication & Security
+- 📖 Read blogs seamlessly  
+- 💬 Post comments on blogs  
+- 📱 Fully responsive interface  
+- ⚡ Fast image loading with CDN  
 
-JWT Token-based authentication
+---
 
-Protected admin routes
+## 🛠️ Admin Features
 
-Middleware verification
+- ➕ Add, ✏️ Edit, ❌ Delete blogs  
+- ✔️ Approve or reject user comments  
+- 📊 Manage content via clean dashboard  
+- 🔒 Protected admin routes  
 
-Secure API handling
+---
+
+## 🏗️ Tech Stack
+
+| Frontend | Backend | Database | APIs |
+|----------|----------|----------|------|
+| React.js | Node.js | MongoDB | Google Gemini |
+| Context API | Express.js | Mongoose | ImageKit API |
+| Axios | JWT Auth |  |  |
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/ai-blog-app.git
+cd ai-blog-app
